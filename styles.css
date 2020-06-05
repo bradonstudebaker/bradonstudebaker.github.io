@@ -1,0 +1,29 @@
+body {
+  font-family: 'Ovo', Serif;
+  font-size: 16px;
+  background: #614385;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #516395, #614385);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #516395, #614385); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Quattrocento Sans', Sans-Serif;
+}
+
+nav {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #3a3a3c00;
+}
+
+.card {
+  background-color: #3a3a3c75;
+  color: white;
+  border: none;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.btn-outline {
+  border: 1px solid white;
+  color: white;
+}
